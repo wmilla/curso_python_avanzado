@@ -2,4 +2,5 @@ pre-commit
 flake8
 requests
 pillow
+pytz
 
